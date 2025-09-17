@@ -1,7 +1,7 @@
 const express = require("express");
 const { DynamoDBClient } = require("@aws-sdk/client-dynamodb");
 const { DynamoDBDocumentClient, PutCommand, GetCommand, ScanCommand, DeleteCommand, UpdateCommand , TransactGetCommand } = require("@aws-sdk/lib-dynamodb");
-const awsConfig = require("./cred.js"); // Import credentials
+const awsConfig = require("./creding.js");
 
 const client = new DynamoDBClient({
     region: awsConfig.region,
