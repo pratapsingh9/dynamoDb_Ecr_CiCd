@@ -5,7 +5,8 @@ Welcome to the **Node.js DynamoDB Docker CI/CD Project**! This project demonstra
 ---
 
 ## CICD FLOW
-<img width="1536" height="1024" alt="ChatGPT Image Sep 17, 2025, 04_38_21 PM" src="https://github.com/user-attachments/assets/b5628437-6bfd-4d16-9231-dee557847093" />
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/6ee3b0a5-8e95-4acd-a225-46f3bbe28caa" />
+
 
 
 ## Table of Contents
@@ -390,5 +391,6 @@ curl -X DELETE http://localhost:3000/item/1/John
 ## License
 
 MIT License © 2025
+
 
 
